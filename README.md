@@ -1,16 +1,53 @@
-## Hi there 👋
+## Hlib Lukavetskyi
+### Frontend Developer
 
-<!--
-**lukavetskyi/lukavetskyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🛠️ Skills
+- **Languages**:
+  - HTML
+  - CSS
+  - JavaScript
+  - TypeScript
+  - React
+  - SASS
+  - Bash
+  - Lua
+  - C/C++
+ 
+- **Technologies**:
+  - Linux
+  - Docker
+  - Vite
+  - Make
+  - CMake
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌐 Languages
+- **English**: Fluent
+- **Czech**: Fluent
+- **Russian**: Fluent
+- **Ukrainian**: Native
+
+---
+
+### 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukavetskyi&layout=donut&theme=transparent) ![Hlib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lukavetskyi&show_icons=true&theme=transparent)
+
+---
+
+### 🚀 About Me
+Hi! My name is **Hlib Lukavetskyi**, and I am a frontend developer with experience in HTML, CSS, JavaScript, TypeScript, React, and SASS. I am passionate about creating beautiful and functional web applications and always strive to improve my skills and learn new technologies.
+
+---
+
+### 📂 Public Repositories
+
+- [Beautiful UI KIT](https://github.com/lukavetskyi/ui-kit-react) - Beautiful UI KIT created with React and Typescript.
+- [Travel Landing](https://github.com/lukavetskyi/travel-landing-website) - Simple HTML/CSS landing.
+- [NeoVim Config](https://github.com/lukavetskyi/config.nvim) - My NeoVim config for frontend and C/C++ developing.
+
+---
+
