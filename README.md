@@ -3,6 +3,11 @@
 
 ---
 
+### 🚀 About Me
+Hi! My name is **Hlib Lukavetskyi**, and I am a frontend developer with experience in HTML, CSS, JavaScript, TypeScript, React, and SASS. I am passionate about creating beautiful and functional web applications and always strive to improve my skills and learn new technologies.
+
+---
+
 ### 🛠️ Skills
 - **Languages**:
   - HTML
@@ -35,11 +40,6 @@
 ### 📊 GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lukavetskyi&layout=donut&theme=radical) ![Hlib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lukavetskyi&show_icons=true&theme=radical)
-
----
-
-### 🚀 About Me
-Hi! My name is **Hlib Lukavetskyi**, and I am a frontend developer with experience in HTML, CSS, JavaScript, TypeScript, React, and SASS. I am passionate about creating beautiful and functional web applications and always strive to improve my skills and learn new technologies.
 
 ---
 
