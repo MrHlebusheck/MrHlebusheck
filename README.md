@@ -8,7 +8,7 @@ Hi! My name is **Hlib Lukavetskyi**, and I am a frontend developer with experien
 
 ---
 
-### 🛠️ Skills
+### 🛠 Skills
 - **Languages**:
   - HTML
   - CSS
@@ -29,7 +29,7 @@ Hi! My name is **Hlib Lukavetskyi**, and I am a frontend developer with experien
 
 ---
 
-### 🌐 Languages
+### 🌍 Languages
 - **English**: Fluent
 - **Czech**: Fluent
 - **Russian**: Fluent
