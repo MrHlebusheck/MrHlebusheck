@@ -9,31 +9,27 @@ Hi! My name is **Hlib Lukavetskyi**, and I am a frontend developer with experien
 ---
 
 ### 🛠 Skills
-- **Languages**:
-  - HTML
-  - CSS
-  - JavaScript
-  - TypeScript
-  - React
-  - SASS
-  - Bash
-  - Lua
-  - C/C++
- 
-- **Technologies**:
-  - Linux
-  - Docker
-  - Vite
-  - Make
-  - CMake
+| **Languages**   | **Technologies** |
+|-----------------|------------------|
+| HTML            | Linux            |
+| CSS             | Docker           |
+| JavaScript      | Vite             |
+| TypeScript      | Make             |
+| React           | CMake            |
+| SASS            |                  |
+| Bash            |                  |
+| Lua             |                  |
+| C/C++           |                  |
 
 ---
 
 ### 🌍 Languages
-- **English**: Fluent
-- **Czech**: Fluent
-- **Russian**: Fluent
-- **Ukrainian**: Native
+| **Language**  | **Proficiency** |
+|---------------|-----------------|
+| English       | Fluent          |
+| Czech         | Fluent          |
+| Russian       | Fluent          |
+| Ukrainian     | Native          |
 
 ---
 
