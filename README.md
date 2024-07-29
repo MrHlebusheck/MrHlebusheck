@@ -41,7 +41,7 @@ Hi! My name is **Hlib Lukavetskyi**, and I am a frontend developer with experien
 
 ### 📂 Public Repositories
 
-- [Beautiful UI KIT](https://github.com/lukavetskyi/ui-kit-react) - Beautiful UI KIT created with React and Typescript(In development).
+- [Beautiful UI KIT](https://github.com/lukavetskyi/ui-kit-react) - Beautiful UI KIT created with React and Typescript.
 - [Travel Landing](https://github.com/lukavetskyi/travel-landing-website) - Simple HTML/CSS landing.
 - [NeoVim Config](https://github.com/lukavetskyi/config.nvim) - My NeoVim config for frontend and C/C++ developing.
 
