@@ -1,10 +1,9 @@
 ## Hlib Lukavetskyi
-### Frontend Developer
 
 ---
 
 ### 🚀 About Me
-Hi! My name is **Hlib Lukavetskyi**, and I am a frontend developer with experience in HTML, CSS, JavaScript, TypeScript, React, and SASS. I am passionate about creating beautiful and functional web applications and always strive to improve my skills and learn new technologies.
+Hi! My name is **Hlib Lukavetskyi**, and I am a Homo Sapiens.
 
 ---
 
