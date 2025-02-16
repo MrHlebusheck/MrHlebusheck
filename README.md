@@ -34,7 +34,7 @@ Hi! My name is **Hlib Lukavetskyi**, and I am a Homo Sapiens.
 
 ### 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lukavetskyi&layout=donut&theme=radical) ![Hlib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lukavetskyi&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrHlebusheck&layout=donut&theme=radical) ![Hlib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrHlebusheck&show_icons=true&theme=radical)
 
 ---
 
